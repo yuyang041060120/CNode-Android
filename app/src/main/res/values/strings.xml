@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CNode</string>
+    <string name="menu_all">全部</string>
+    <string name="menu_good">精华</string>
+    <string name="menu_share">分享</string>
+    <string name="menu_ask">问答</string>
+    <string name="menu_job">招聘</string>
+    <string name="menu_reply_count">回复(0)</string>
+
+    <string name="topic_detail_title">话题</string>
+    <string name="reply_list_title">回复</string>
+
+    <string name="topic_top">置顶</string>
+    <string name="topic_good">精华</string>
+    <string name="topic_from">来自</string>
+    <string name="topic_create_by">by</string>
+    <string name="exit_message">再按一次退出</string>
+</resources>
